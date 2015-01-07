@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Program a MS Dynamics NAV Web Service Application
+title: Dynamics NAV: How to Add a Lookup Field to a Page
 ---
 
 The documentation to MS Dynamics NAV 2009/2013 includes a tutorial on how to expose web services from within NAV, and how to create a few trivial applications that consume these web services.  
