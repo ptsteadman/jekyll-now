@@ -21,4 +21,4 @@ In order to use web services, you don't need to be using the Role Tailored Clien
 
 [Debugging Code Called by Web Services](http://blogs.msdn.com/b/nav/archive/2012/03/05/rtc-debugging.aspx)
 C/AL code won't necessarily execute the same as it did in the Classic Client when called  as a Web Service.  C/AL code called as web service execute in the NAV Server tier, instead of the client.  [Certain functions](http://msdn.microsoft.com/en-us/library/ff477107.aspx) aren't available for code running in the NAV Server, and some design changes need to be made (for example, CONFIRM dialogue boxes don't make sense in the context of a web service).  To debug the codeunits called through web services (or the Role Tailored Client), you will need to use Visual Studio.
-[More information.](http://msdn.microsoft.com/en-us/library/ff477107.aspx)
+[More information.](http://msdn.microsoft.com/en-us/library/dd338765.aspx#SU)
