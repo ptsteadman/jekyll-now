@@ -18,7 +18,11 @@ html {
 }
 
 body {
-	background-color: #eee;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #eeeeee 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #eeeeee 0%,#ffffff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #eeeeee 0%,#ffffff 100%); /* IE10+ */
+background: linear-gradient(to bottom, #eeeeee 0%,#ffffff 100%); /* W3C */
   font: 17px/1.3 $helvetica;
   color: $darkGray;
 }
