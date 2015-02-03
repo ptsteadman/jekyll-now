@@ -4,13 +4,13 @@ title: How To Impress Employers at Infosessions
 ---
 Top tech talent knows that industry recruiters often bring a stack of
 pre-negotiated offers to university infosessions, so that they can snag the
-programmers who really stand out.  Instead of spending valuable time validating
-a particularly promising candidate's skillset through a protracted series of
-interviews, it's often more efficient to simply give the individual an offer
-right then and there.  Internal studies at Google have shown that experienced
-recruiters can usually tell if a programmer has 'what it takes' just from how they
-act at infosessions: the insightful questions they ask, the stickers on their
-laptop, and how they comport themselves in general.
+programmers and UX designers who really stand out.  Instead of spending valuable
+time validating a particularly promising candidate's skillset through a
+protracted series of interviews, it's often more efficient to simply __give the
+individual an offer right then and there__.  Internal studies at Google have shown
+that experienced recruiters can usually tell if a programmer has 'what it takes'
+just from how they act at infosessions: the insightful questions they ask, the
+stickers on their laptop, and how they comport themselves in general.
 
 Here are some of tips for optimizing your infosession performance:
 
