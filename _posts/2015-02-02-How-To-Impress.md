@@ -5,7 +5,7 @@ title: How To Impress Employers at Infosessions
 ![_config.yml]({{ site.baseurl }}/images/info2.jpg)
 
 Top tech talent knows that industry recruiters often bring a stack of
-pre-negotiated offers to university infosessions, so that they can snag the
+pre-negotiated offers to university infosessions, so that they can snag
 programmers and UX designers who really stand out.  Instead of spending valuable
 time validating a particularly promising candidate's skillset through a
 protracted series of interviews, it's often more efficient to simply __give the
