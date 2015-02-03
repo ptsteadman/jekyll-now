@@ -2,6 +2,8 @@
 layout: post
 title: How To Impress Employers at Infosessions 
 ---
+![_config.yml]({{ site.baseurl }}/images/info2.jpg)
+
 Top tech talent knows that industry recruiters often bring a stack of
 pre-negotiated offers to university infosessions, so that they can snag the
 programmers and UX designers who really stand out.  Instead of spending valuable
