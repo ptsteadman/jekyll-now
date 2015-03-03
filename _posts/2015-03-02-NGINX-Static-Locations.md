@@ -16,8 +16,7 @@ website I created for the game I'm developing.  I kept trying to do something li
     }
 
 But everytime I tried to visit [http://ptsteadman.com/array], I would get a 404 error.
-I tried a bunch of things: I changed the "root" of the the "/" location, and my static site
-worked.  But no matter what I did, after using `sudo service nginx restart`,
+I tried a bunch of things: I changed the "root" of the the "/" location to my game website, and it worked.  But no matter what I did, after using `sudo service nginx restart`,
 trying to visit the "/array" location still resulted in a 404.  I couldn't add the new route/location.
 
 Eventually, I realized that the text after the slash in the location is the directory that 
