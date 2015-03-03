@@ -2,11 +2,11 @@
 layout: post
 title: Static NGINX Locations
 ---
-I try to do as much as I can with AWS t2.micro instance I keep running, 
-which means I have a lot of different projects running on different paths on a single server/domain.  
+I do as much as I can with the single AWS t2.micro instance I keep running, 
+which means I have a lot projects running on different paths on a single server/domain.  
 Everytime I finish a project, I have to relearn how to add new "locations" (paths) to the NGINX virtual host.
 
-I was really annoyed when I couldn't figure out how to add a static location for the Jekyll
+I was really frustrated when I couldn't figure out how to add a static location for the Jekyll
 website I created for the game I'm developing.  I kept trying to do something like this:
 
     location / {
