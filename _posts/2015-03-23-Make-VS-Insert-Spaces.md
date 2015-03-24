@@ -7,7 +7,7 @@ It's really annoying when Visual Studio shows you this:
 
 ![_config.yml]({{ site.baseurl }}/images/vs1.png)
 
-But github or vim show you the same file like this:
+But github or vim shows you the same file like this:
 
 ![_config.yml]({{ site.baseurl }}/images/vim1.png)
 
