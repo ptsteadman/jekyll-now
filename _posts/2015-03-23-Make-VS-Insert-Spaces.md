@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Make Visual Studio Use Spaces for Newline Indents
+title: Make Visual Studio Use Spaces for Newline Indents
 published: true
 ---
 It's really annoying when Visual Studio shows you this:
@@ -9,7 +9,7 @@ It's really annoying when Visual Studio shows you this:
 
 But github or vim show you the same file like this:
 
-![_config.yml]({{ site.baseurl }}/images/vim1.PNG)
+![_config.yml]({{ site.baseurl }}/images/vim1.png)
 
 
 If you use the "show whitespace" Visual Studio chord (CTRL-R, CTRL-W), 
