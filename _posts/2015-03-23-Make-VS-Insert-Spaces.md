@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make Visual Studio Insert Spaces for Newline Indents
-published: false
+published: true
 ---
 It's really annoying when Visual Studio shows you this:
 
