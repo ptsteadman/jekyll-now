@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Make Visual Studio Insert Spaces for Newline Indents
+title: How To Make Visual Studio Use Spaces for Newline Indents
 published: true
 ---
 It's really annoying when Visual Studio shows you this:
@@ -25,7 +25,8 @@ width as four spaces.  But if you're collaborating with someone working
 in another text editor like vim, your automatically-inserted tabs will
 appear larger than four spaces.
 
-How to fix this: go to Tools->Options->Text Editor->All Languages->Tabs:
+Here's how to make visual studio insert spaces instead of tabs on newline indents:
+go to Tools->Options->Text Editor->All Languages->Tabs:
 
 ![_config.yml]({{ site.baseurl }}/images/spaces.png)
 
