@@ -12,7 +12,7 @@ But github or vim show you the same file like this:
 ![_config.yml]({{ site.baseurl }}/images/vim1.png)
 
 
-If you use the "show whitespace" Visual Studio chord (CTRL-R, CTRL-W), 
+If you use the "show whitespace" Visual Studio chord `(CTRL-R, CTRL-W)`, 
 you'll see that visual studio inserts tabs instead of spaces by
 default for newline indent:
 
@@ -26,11 +26,11 @@ in another text editor like vim, your automatically-inserted tabs will
 appear larger than four spaces.
 
 Here's how to make visual studio insert spaces instead of tabs on newline indents:
-go to Tools->Options->Text Editor->All Languages->Tabs:
+go to `Tools->Options->Text Editor->All Languages->Tabs`:
 
 ![_config.yml]({{ site.baseurl }}/images/spaces.png)
 
 
-Better:
+That's better:
 
 ![_config.yml]({{ site.baseurl }}/images/ws2.png)
